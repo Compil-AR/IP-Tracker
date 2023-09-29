@@ -38,6 +38,10 @@ Geolocaliza direcciones IP y obtiene información básica sobre números de tel�
    - **2. Información de número de teléfono:** Introduce el código del país (sin +) y el número de teléfono para obtener detalles sobre él.
    - **3. Salir:** Cierra el programa.
 
+## ⚠️ Descargo de Responsabilidad
+
+El uso de IP-Tracker está **destinado únicamente a fines educativos y éticos**. El creador y colaboradores de este proyecto no se hacen responsables del uso indebido o ilegal de esta herramienta. Es responsabilidad del usuario final adherirse a todas las leyes locales, estatales y federales aplicables. Si decides usar IP-Tracker, lo haces bajo tu propio riesgo.
+
 ## 📝 Licencia
 
 Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
@@ -45,3 +49,4 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 ## 🙋‍♂️ Contacto
 
 - GitHub: [@Compil-AR](https://github.com/Compil-AR)
+
