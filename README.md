@@ -40,7 +40,7 @@ Geolocaliza direcciones IP y obtiene información básica sobre números de tel�
 
 ## ⚠️ Descargo de Responsabilidad
 
-El uso de IP-Tracker está **destinado únicamente a fines educativos y éticos**. El creador de este repositorio no se hacen responsables del uso indebido o ilegal de esta herramienta. Es responsabilidad del usuario adherirse a todas las leyes locales, estatales y federales aplicables. Si decides usar IP-Tracker, lo haces bajo tu propia responsabilidad.
+El uso de IP-Tracker está **destinado unicamente a fines educativos y eticos**. El creador de este repositorio no se hace responsable del uso indebido o ilegal de esta herramienta. Es responsabilidad del usuario adherirse a todas las leyes locales, estatales y federales aplicables. Si decides usar IP-Tracker, lo haces bajo tu propia responsabilidad.
 
 ## 📝 Licencia
 
