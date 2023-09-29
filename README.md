@@ -12,7 +12,7 @@ Geolocaliza direcciones IP y obtiene información básica sobre números de tel�
 - **Geolocalización de IPs:** Proporciona detalles como el país y la ciudad asociados a una dirección IP.
 - **Información de Números de Teléfono:** Determina la validez, el formato, la ubicación general y el operador de un número de teléfono.
 
-## 🚀 Inicio Rápido
+## 🚀 Inicio Rapido
 
 1. Clona el repositorio:
     ```bash
@@ -30,7 +30,7 @@ Geolocaliza direcciones IP y obtiene información básica sobre números de tel�
     python ip-tracker.py
     ```
 
-## 🔍 Cómo Usar
+## 🔍 Como Usar
 
 1. Ejecuta el script.
 2. Selecciona una opción:
@@ -40,7 +40,7 @@ Geolocaliza direcciones IP y obtiene información básica sobre números de tel�
 
 ## ⚠️ Descargo de Responsabilidad
 
-El uso de IP-Tracker está **destinado únicamente a fines educativos y éticos**. El creador y colaboradores de este proyecto no se hacen responsables del uso indebido o ilegal de esta herramienta. Es responsabilidad del usuario final adherirse a todas las leyes locales, estatales y federales aplicables. Si decides usar IP-Tracker, lo haces bajo tu propio riesgo.
+El uso de IP-Tracker está **destinado únicamente a fines educativos y éticos**. El creador de este repositorio no se hacen responsables del uso indebido o ilegal de esta herramienta. Es responsabilidad del usuario adherirse a todas las leyes locales, estatales y federales aplicables. Si decides usar IP-Tracker, lo haces bajo tu propia responsabilidad.
 
 ## 📝 Licencia
 
