@@ -2,7 +2,7 @@
 
 Geolocaliza direcciones IP y obtiene información básica sobre números de teléfono.
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)](https://github.com/Compil-AR/IP-Tracker)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)](https://github.com/Compil-AR/IP-Tracker)
 [![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Compil-AR/IP-Tracker/blob/master/LICENSE)
 
 ![Logo IP-Tracker](logo-github.png)
